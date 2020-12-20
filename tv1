@@ -1,0 +1,11 @@
+#EXTM3U
+#EXTINF:-1,A
+https://rtm1mobile.secureswiftcontent.com/Origin01/ngrp:RTM1/playlist.m3u8
+#EXTINF:-1,B
+https://rtm2mobile.secureswiftcontent.com/Origin01/ngrp:RTM1/playlist.m3u8
+#EXTINF:-1,C
+https://video.fkul14-1.fna.fbcdn.net/hvideo-frc-atn/_nc_ohc-b7qVOpvZUYYAX-WPA-7/_nc_cat-103/v/r3vkhavaDgtbjDdIuyMLf/live-dash/dash-abr-ibr-audio/1775767845933629.mpd?_nc_rl=AfBXVTaci_jXx32fitA&ms=m_CT&oh=62b19d5c2fd4b315bba75f1168b7f4cb&oe=5FE075B1
+#EXTINF:-1,D
+https://raw.githubusercontent.com/exodiver/IPTV/master/M3U8/Token/NTV7.m3u8
+#EXTINF:-1,E
+https://raw.githubusercontent.com/exodiver/IPTV/master/M3U8/Token/TV9.m3u8
